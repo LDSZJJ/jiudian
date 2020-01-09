@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jiudian:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/jiudian_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jiudian" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="jiudian/web/Web" />
+    </root>
+  </artifact>
+</component>
